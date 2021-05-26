@@ -30,8 +30,6 @@
   </p>
 </p>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -45,7 +43,6 @@
          <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -53,8 +50,6 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -80,37 +75,15 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Get a free API Key at [https://chrisrichardson.dev](https://chrisrichardson.dev)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/richardsonchrisj_/Project-Name.git
+   git clone https://github.com/richardsonchrisj_/pacmen.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://chrisrichardson.dev)_
-
-
 
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/richardsonchrisj/pacmen/issues) for a list of proposed features (and known issues).
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -123,19 +96,15 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/richardsonchrisj) - email@chrisrichardson.dev
+Chris Richardson - [@CRichardsonDev](https://twitter.com/CRichardsonDev) - chris@chrisrichardson.dev
 
 Project Link: [https://github.com/richardsonchrisj/pacmen](https://github.com/richardsonchrisj/pacmen)
 
