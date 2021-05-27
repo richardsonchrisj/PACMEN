@@ -27,11 +27,11 @@ function makePac() {
   newimg.src = 'images/PacMan1.png';
   newimg.width = 100;
 
-  // TODO: set position here
+  // set position
   newimg.style.top = position.y;
   newimg.style.left = position.x;
 
-  // TODO add new Child image to game
+  // add new Child image to game
   game.appendChild(newimg);
 
   // return details in an object
@@ -56,7 +56,7 @@ function update() {
 }
 
 function checkCollisions(item) {
-  // TODO: detect collision with all walls and make pacman bounce
+  // Detect collision with all walls and make pacman bounce
   const posX = item.position.x;
   const posY = item.position.y;
 
@@ -73,9 +73,4 @@ function checkCollisions(item) {
 
 function makeOne() {
   pacMen.push(makePac()); // add a new PacMan
-}
-
-//don't change this line
-if (typeof module !== 'undefined') {
-  module.exports = { checkCollisions, update, pacMen };
 }
