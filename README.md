@@ -22,7 +22,7 @@
     <a href="https://github.com/richardsonchrisj/pacmen"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/richardsonchrisj/pacmen">View Demo</a>
+    <a href="https://richardsonchrisj.github.io/pacmen/index.html">View Demo</a>
     ·
     <a href="https://github.com/richardsonchrisj/pacmen/issues">Report Bug</a>
     ·
@@ -54,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://chrisrichardson.dev)
+[![Product Name Screen Shot][product-screenshot]](https://richardsonchrisj.github.io/pacmen/index.html)
 
 This PacMan factory was made as part of the MIT Professional Certificate in Coding: Full Stack Development with MERN. It creates PacMen and bounces them around your screen.
 
@@ -102,9 +102,10 @@ Project Link: [https://github.com/richardsonchrisj/pacmen](https://github.com/ri
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
+* [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
+* [MIT Professional Certificate in Coding: Full Stack Development with MERN](https://executive-ed.xpro.mit.edu/professional-certificate-coding)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
